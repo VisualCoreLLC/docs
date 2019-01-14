@@ -6,7 +6,7 @@ Visual Core LLC ("us", "we", or "our") operates the Streamer Showdown Twitch Ext
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Visual Core LLC is based on the [Free Privacy Policy Template Website](https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/).
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.twitch.tv/extension/streamershowdown
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://github.com/VisualCoreLLC/docs/blob/master/termsofservice.md
 
 ## Information Collection And Use
 
@@ -106,4 +106,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-*   By email: contact@visualcore.tv
+*   By email: admin@visualcore.tv
