@@ -61,7 +61,7 @@ We will approve link requests from these organizations if we determine that: (a)
 
 These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and it products or services; and (c) fits within the context of the linking party's site.
 
-If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to [contact@visualcore.tv](mailto:contact@visualcore.tv "send an email to contact@visualcore.tv"). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
+If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to [admin@visualcore.tv](mailto:admin@visualcore.tv "send an email to admin@visualcore.tv"). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
 
 Approved organizations may hyperlink to our Web site as follows:
 
@@ -101,7 +101,3 @@ To the maximum extent permitted by applicable law, we exclude all representation
 The limitations and exclusions of liability set out in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or in relation to the subject matter of this disclaimer, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty.
 
 To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
-
-## Credit & Contact Information
-
-This Terms and conditions page was created at [termsandconditionstemplate.com](https://termsandconditionstemplate.com) generator. If you have any queries regarding any of our terms, please contact us.
